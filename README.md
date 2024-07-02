@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal.utdallas.edu/~rxd230004/](https://personal.utdallas.edu/~rxd230004/)
 
-- 📫 How to reach me **rxd230004@utdallas.edu**
+- 📫 How to reach me rxd230004@utdallas.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
