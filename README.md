@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhikawomentech&label=Profile%20views&color=0e75b6&style=flat" alt="radhikawomentech" /> </p>
 
-- 🔭 I’m currently working on [JSOM Website]([https://jindal.utdallas.edu/](https://radhikawomentech.github.io/portfolio/))
-
 - 👨‍💻 All of my projects are available at [https://personal.utdallas.edu/~rxd230004/](https://personal.utdallas.edu/~rxd230004/)
 
 - 📫 How to reach me radhika.dubeyms@gmail.com
